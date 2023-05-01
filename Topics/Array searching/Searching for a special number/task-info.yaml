@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: "function search(numbers) {\n// Write your code here  \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18276#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 29 Apr 2023 11:42:14 UTC"
+record: -1
+submission_language: javascript

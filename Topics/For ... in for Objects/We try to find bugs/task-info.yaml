@@ -1,0 +1,16 @@
+type: code
+custom_name: We try to find bugs!
+files:
+- name: main.js
+  visible: true
+  text: |-
+    let sentence = {
+        1: "I",
+        0: "love",
+        2: "books"
+    };
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22790#comment
+status: Solved
+record: -1
+submission_language: javascript

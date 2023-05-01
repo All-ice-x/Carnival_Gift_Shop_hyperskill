@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    const originalArr = [3, 6, 0, 1, 4, 6, 8, 112];
+    ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16361#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 16 Apr 2023 10:19:46 UTC"
+record: -1
+submission_language: javascript
